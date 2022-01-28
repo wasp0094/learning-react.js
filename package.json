@@ -1,7 +1,7 @@
 {
   "name": "demo-react-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/wasp0094/learning-react.js.git",
+  "homepage": "https://wasp0094.github.io/learning-react.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
