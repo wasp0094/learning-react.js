@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>main branch - wasp</p>
+        <p>testing github actions</p>
       </header>
     </div>
   );
